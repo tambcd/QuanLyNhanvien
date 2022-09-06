@@ -1,0 +1,17 @@
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.LogicLayer\bin\Debug\net6.0\MISA.BLogicLayer.deps.json
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.LogicLayer\bin\Debug\net6.0\MISA.BLogicLayer.dll
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.LogicLayer\bin\Debug\net6.0\ref\MISA.BLogicLayer.dll
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.LogicLayer\bin\Debug\net6.0\MISA.BLogicLayer.pdb
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.LogicLayer\bin\Debug\net6.0\MISA.Common.dll
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.LogicLayer\bin\Debug\net6.0\MISA.DAL.dll
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.LogicLayer\bin\Debug\net6.0\MISA.Common.pdb
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.LogicLayer\bin\Debug\net6.0\MISA.DAL.pdb
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.LogicLayer\obj\Debug\net6.0\MISA.BLogicLayer.csproj.AssemblyReference.cache
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.LogicLayer\obj\Debug\net6.0\MISA.BLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.LogicLayer\obj\Debug\net6.0\MISA.BLogicLayer.AssemblyInfoInputs.cache
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.LogicLayer\obj\Debug\net6.0\MISA.BLogicLayer.AssemblyInfo.cs
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.LogicLayer\obj\Debug\net6.0\MISA.BLogicLayer.csproj.CoreCompileInputs.cache
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.LogicLayer\obj\Debug\net6.0\MISA.BLogicLayer.csproj.CopyComplete
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.LogicLayer\obj\Debug\net6.0\MISA.BLogicLayer.dll
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.LogicLayer\obj\Debug\net6.0\ref\MISA.BLogicLayer.dll
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.LogicLayer\obj\Debug\net6.0\MISA.BLogicLayer.pdb

@@ -1,0 +1,18 @@
+@import url(./main__content/main__content.css);
+
+
+#content__area {
+    flex: 1;
+    min-height: 0;
+    min-width: 0;
+}
+
+#content__area .content__wrapper {
+    min-height: calc(100vh - 48px);
+}
+
+.relative {
+    position: relative!important;
+}
+
+

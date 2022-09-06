@@ -1,0 +1,11 @@
+.menu__container.expand{
+    width: auto;
+}
+.menu__container{
+    font-size: 13px;
+    -webkit-transition: all .3s ease;
+    position: relative;
+    background-color: #393a3d;
+    width: 52px;
+    transition: all .2s ease;
+}

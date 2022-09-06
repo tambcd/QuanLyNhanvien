@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "q1EF9uPSkXpbg6L1iQj9hekYJq6OVl1jxfi7MJT11m0=",
+  "Source": "MISA.WebAPI",
+  "BasePath": "_content/MISA.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

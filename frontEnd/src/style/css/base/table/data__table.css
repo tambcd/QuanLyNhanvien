@@ -1,0 +1,160 @@
+.father__table {
+    position: relative;
+    height: calc(100vh - 218px);
+    background-color: #ffffff;
+    border-radius: 1.5px;
+    border: none;
+    width: 95%;
+    margin: auto;
+    overflow: auto;
+    margin-top: 10px;
+}
+
+.e__table {
+    border-collapse: collapse;
+}
+
+.table tbody {
+    position: relative;
+}
+
+.e__table tbody tr {
+    border-bottom: 0.5px solid #c7c7c7;
+    height: 34px;
+}
+
+.e__table tbody tr:hover {
+    background-color: #e5f3ff !important;
+    cursor: pointer;
+}
+
+.e__table thead tr {
+    outline: 0.5px solid #c7c7c7;
+    z-index: 4;
+    height: 34px;
+    font-size: 12px;
+    background-color: #f5f5f5;
+    position: sticky;
+    top: 0;
+    text-align: left;
+}
+
+.e__table tr {
+    padding: 10px;
+}
+
+.e__table tbody {
+    position: relative;
+}
+
+.e__table th:not(:last-child):not(:first-child),
+td:not(:last-child):not(:first-child) {
+    border-right: 0.5px dotted #c7c7c7;
+}
+
+
+.e__table th:last-child,
+td:last-child {
+    outline: 0.5px dotted #c7c7c7;
+}
+
+.e__table th:first-child,
+td:first-child {
+    outline: 0.5px dotted #c7c7c7;
+}
+
+.e__table tbody td {
+    font-weight: 300;
+    font-size: 13px;
+}
+
+.e__table td,
+th {
+    padding: 10px;
+    z-index: 2;
+}
+
+.table__drop {
+    display: flex;
+    color: #2ca01c;
+    justify-content: center;
+    position: relative;
+}
+
+.e__table .first__column {
+    left: 0px;
+    position: sticky;
+}
+
+.e__table tbody .first__column {
+    background-color: #fff;
+}
+
+.e__table thead .first__column {
+    background-color: #f5f5f5
+}
+
+.e__table .last__column {
+    right: 0px;
+    position: sticky
+}
+
+.e__table tbody .last__column {
+    background-color: #fff;
+}
+
+.e__table thead .last__column {
+    background-color: #f5f5f5
+}
+
+.e__table tbody tr:hover .first__column {
+    background-color: #e5f3ff !important;
+    cursor: pointer;
+}
+
+.e__table tbody tr:hover .last__column {
+    background-color: #e5f3ff !important;
+    cursor: pointer;
+}
+
+.drop__sticky {
+    position: sticky;
+    right: 20px;
+    top: -60px
+}
+
+.no__data {
+    display: flex;
+    flex: 1 0 100%;
+    height: 150px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(https://actappg1.misacdn.net/img/bg_report_nodata.76e50bd8.svg);
+}
+
+.no__data__content {
+    text-align: center;
+    color: gray;
+}
+
+.chooseTr {
+    background-color: #e5f3ff !important;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.hide__td {
+    color: black;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    text-overflow: ellipsis;
+}

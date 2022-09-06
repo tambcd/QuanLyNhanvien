@@ -1,0 +1,21 @@
+@import url(header__content.css);
+@import url(body__content.css);
+@import url(data__content.css);
+@import url(page.css);
+
+
+.router__view.fix__view {
+    padding: 0!important;
+}
+
+.router__view .router__content {
+    padding-top: 28px;
+    padding-left: 5px;
+    background-color: #eceef1;
+}
+.layout__dictionary {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: calc(100vh - 48px);
+}

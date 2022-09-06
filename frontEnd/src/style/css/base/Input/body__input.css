@@ -1,0 +1,50 @@
+.input__pb {
+    position: relative;
+}
+
+.input {
+    height: 30px;
+    border-radius: 4px;
+    position: relative;
+
+}
+
+.input__input {
+    border: 1px solid #019160;
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 32px;
+    width: 100%;
+    border-radius: 4px;
+    padding-right: 56px;
+    padding-left: 16px;
+    box-sizing: border-box;
+
+}
+
+.input__input:focus {
+    outline: 1px solid #019160;
+
+
+}
+
+ ::placeholder{
+    font-family: MISA fonts Italic;
+
+}
+
+.input__button {
+    cursor: pointer;
+    border: 0px solid #019160;
+    background-color: transparent;
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 32px;
+    border-radius: 4px;
+    width: 40px;
+    box-sizing: border-box;
+    background-position: -980px -352px;
+
+}

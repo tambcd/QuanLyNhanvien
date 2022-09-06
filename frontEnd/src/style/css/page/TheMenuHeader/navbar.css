@@ -1,0 +1,37 @@
+
+
+.bg__white {
+    background-color: #fff!important;
+    
+}
+
+.vx__navbar__wrapper {
+    z-index: 100;
+}
+
+.vx__navbar__wrapper {
+    top: 0;
+    position: absolute;
+    width: 100%;
+    background: #fff;
+    
+}
+
+
+.navbar__sticky .vx__navbar__wrapper .vx__navbar {
+    padding: 0;
+    height: 48px;
+}
+
+.items__center {
+    align-items: center!important;
+}
+.flex{
+    display: flex !important;
+}
+
+
+.pointer{
+    cursor: pointer;
+}
+

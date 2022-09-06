@@ -1,0 +1,31 @@
+.expand .logo__container{
+    padding: 24px;
+}
+.logo__container{
+    display: flex;
+    background-color: #38393d;
+    padding: 10px;
+    height: 48px;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu__container__option{
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+    background: url(../../../../assets/img/Sprites.64af8f61.svg) no-repeat -424px -86px;
+}
+
+.logo .img__icon {
+    height: 32px;
+}
+
+/* mini menu */
+
+.menu__container__option__mini{
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+    background: url(../../../../assets/img/Sprites.64af8f61.svg) no-repeat -312px -32px;
+}

@@ -1,0 +1,4 @@
+@import url(menu__container.css);
+.layout__main{
+    display: flex;
+}

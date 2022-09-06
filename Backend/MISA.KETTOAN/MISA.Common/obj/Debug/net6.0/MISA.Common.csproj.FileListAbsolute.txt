@@ -1,0 +1,14 @@
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.Common\bin\Debug\net6.0\MISA.Common.deps.json
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.Common\bin\Debug\net6.0\MISA.Common.dll
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.Common\bin\Debug\net6.0\ref\MISA.Common.dll
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.Common\bin\Debug\net6.0\MISA.Common.pdb
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.Common\obj\Debug\net6.0\MISA.Common.csproj.AssemblyReference.cache
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.Common\obj\Debug\net6.0\MISA.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.Common\obj\Debug\net6.0\MISA.Common.AssemblyInfoInputs.cache
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.Common\obj\Debug\net6.0\MISA.Common.AssemblyInfo.cs
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.Common\obj\Debug\net6.0\MISA.Common.csproj.CoreCompileInputs.cache
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.Common\obj\Debug\net6.0\MISA.Common.dll
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.Common\obj\Debug\net6.0\ref\MISA.Common.dll
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.Common\obj\Debug\net6.0\MISA.Common.pdb
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.Common\obj\Debug\net6.0\MISA.Common.Resource.Resource.resources
+D:\CNTT_W06\Backend\MISA.KETTOAN\MISA.Common\obj\Debug\net6.0\MISA.Common.csproj.GenerateResource.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xQTxu7fybOoVcvEhFlHVQa6dMUSe0YTQdYF0JLk5RHDwrXiYWbYlJ8IumFIVY/WQZEcASBDIjLWuiv/HfEI61w==",
+  "success": true,
+  "projectFilePath": "D:\\CNTT_W06\\Backend\\MISA.KETTOAN\\MISA.WebAIP\\MISA.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trant\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\trant\\.nuget\\packages\\mysqlconnector\\2.1.11\\mysqlconnector.2.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

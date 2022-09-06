@@ -1,0 +1,12 @@
+.grid__model__control{
+    min-width: 100%;
+}
+
+.grid__model__control .ms__grid__viewer {
+    
+    overflow: unset;
+    max-height: none;
+    min-width: 100%;
+
+}
+

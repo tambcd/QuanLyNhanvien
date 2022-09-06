@@ -1,0 +1,77 @@
+@import url(./layout/layout.css);
+@import url(../css/icon/icon.css);
+
+@font-face {
+    font-family: MISA fonts;
+    src: url(../../assets/fonts/notosans-regular.2cb88a13.woff2);
+}
+@font-face {
+    font-family: MISA fonts Bold;
+    src: url(../../assets/fonts/notosans-bold.3ede5aff.woff2);
+}
+@font-face {
+    font-family: MISA fonts Italic;
+    src: url(../../assets/fonts/notosans-italic.1c1aaac9.woff2);
+}
+@font-face {
+    font-family: MISA fonts Semibold;
+    src: url(../../assets/fonts/notosans-semibold.df3e6dc4.woff2);
+}
+
+heading{
+    font-family: MISA fonts Bold ;
+}
+tittle{
+    font-family: MISA fonts Bold;
+    font-size: 20px;
+}
+label,Field,input{
+    font-family: Misa fonts;
+}
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: MISA fonts;
+    font-size: 13px;
+    box-sizing: border-box;
+    outline: none;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    font-family: inherit;
+    font-size: inherit;
+
+}
+
+
+body,
+html {
+    font-weight: 300;
+    font-size: 13px;
+    overflow-x: unset;
+    max-width: 100%;
+}
+
+body {
+    font-family: MISA fonts;
+    background-color: #fff;
+    overflow: hidden;
+    color: #111;
+}
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #b8bcc3;
+}
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #888
+}
+

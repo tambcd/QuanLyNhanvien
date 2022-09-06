@@ -1,0 +1,119 @@
+.main__popup{
+    flex-direction: column;
+    display: flex;
+    overflow: auto;
+    overflow-y: visible;
+    padding: 0 32px 20px;
+    position: relative; 
+    
+
+}
+n__popup .content__popup{
+    overflow: auto;
+}
+.mg__b__5{
+    margin-bottom: 5px;
+}
+.header__content{
+    padding-bottom: 12px;
+}
+
+.header__content__left{
+    width: 50%!important;
+    padding-right: 26px;
+}
+.header__content__right{
+    width: 50%!important;
+
+}
+.row__input .row__input__left{
+    padding-right: 6px;
+    width: 40%!important;
+}
+.title__pp{
+    font-family: MISA fonts Bold;
+    padding-bottom: 4px;
+    margin-top: 10px;
+}
+.input__pp input {
+    padding: 0 12px 0 10px;
+    font-size: 13px;
+    height: 33.5px;
+    color: inherit;
+    position: relative;
+    padding: 0 10px;
+    border-radius: 4px;
+    border: 1px solid #babec5;
+    width: 100%;
+}
+
+.input__pp input[type='text']:focus {
+    border: 1px solid #019160;
+
+}
+
+.combobox__position{
+    width: 100%!important;
+    
+}
+
+.input__combobox{
+    position: relative;
+    width: 100%;
+}
+.combobox__position .btn__combobox{
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0px;
+    height: 100%;
+    width: 32px;
+    height: 30px;
+    background-color: transparent;
+    background-position: -555px -351px;
+}
+.txt__depm{
+    width: 100%;
+}
+
+.row__input .row__input__right{
+    width: 60%!important;
+    
+}
+
+.calendar{
+    background-position: -120px -305px;
+}
+.dropdown__icon{
+    background-position:-552px -352px;;
+
+}
+
+.content__bottom .top div{
+    width: 200px;
+    margin-right: 10px;
+}
+
+.content__bottom .bottom div{
+    width: 200px;
+    margin-right: 10px;
+}
+
+.input__CCCD{
+    font-family: MISA fonts Bold;
+    width: 55%;
+    margin: 0 10px 7px 0;
+
+}
+.input__CCCD .TxtCCCD{
+    margin-bottom: 5px;
+}
+.date__CCCD{
+    font-family: MISA fonts Bold;
+    width: 45%;
+}
+.date__CCCD .DateCCCD{
+    margin-bottom: 5px;
+}
+
+

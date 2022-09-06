@@ -1,0 +1,17 @@
+.grid__list__data .grid__button__list .ultility__buttons {
+        justify-content: flex-end;
+        display: flex;
+        align-items: center;
+    
+}
+.grid__list__data .grid__button__list .ultility__buttons .list__button {
+    padding: 0 6px;
+}
+
+.mi__refresh {
+    background-position: -423px -201px;
+}
+.mi__refresh:hover{
+    background-position: -1097px -88px;
+
+}

@@ -1,0 +1,34 @@
+@import url(ultility__button.css);
+
+.layout__dictionary .body {  
+
+    padding: 50px 12px 0 0;
+    overflow: auto;
+    scroll-behavior: smooth;
+    position: relative;
+    flex: 1;
+    min-height: 0;
+}
+.grid__list__data {
+    position: static;
+    left: 0;
+    background: #fff;
+    padding: var(--horizontal-control-padding-y) 16px;
+    position: relative;
+    margin-top: var(--zone-padding);
+}
+
+.grid__button__list.flex{
+    padding: 0 0 var(--horizontal-control-padding-y);
+}
+.flex {
+    display: flex!important;
+}
+
+.flex__grow {
+    flex-grow: 1!important;
+}
+.inline {
+    display: inline!important;
+}
+

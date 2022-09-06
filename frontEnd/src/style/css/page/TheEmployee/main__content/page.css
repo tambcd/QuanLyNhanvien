@@ -1,0 +1,21 @@
+.page{
+    margin: 20px 40px 0 10px;
+    align-items: center;
+}
+.filter{
+    width: 500px;
+}
+.space__between{
+    justify-content: space-between;
+
+}
+.page__ft{
+    width: 300px;
+}
+.page__ft .page__btn{
+    background-color: transparent;
+    border: 0px;
+}
+.combobox__ft{
+    padding-right: 10px;
+}

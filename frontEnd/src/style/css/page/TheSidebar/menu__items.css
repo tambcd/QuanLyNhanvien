@@ -1,0 +1,110 @@
+.menu__item__list{
+    height: calc(100vh - 48px);
+    padding-top: 14px;
+}
+.scroller{
+    overflow-y: hidden;
+    overflow-x: hidden;
+    scrollbar-color: #d4d7dc #f1f1f1;
+    scrollbar-width: thin;
+}
+
+.con__mstooltip .tooltip__content{
+    height: 100%;
+}
+
+.expand .menu__item {
+    padding-left: 8px;
+}
+.menu__item{
+    line-height: 42px;
+    height: 42px;
+    border-left: 6px solid transparent;
+    padding-left: 8px;
+    padding-right: 14px;
+    color: #fff;
+    display: flex;
+    cursor: pointer;
+}
+.menu__item:hover{
+    background-color: #58595d;   
+
+}
+.select__item{
+    background-color: #58595d;
+    font-weight: 700;
+    border-left: 6px solid  #3e8237;
+
+}
+
+.menu__item .menu__item__icon{
+    display: flex;
+    align-items: center;
+    margin-right: 16px;
+}
+.menu__icon{
+    display: flex ;
+    align-items: center;
+    margin-right: 8px;
+}
+
+.sidebar__dashboard{    
+    background-position: -30px -1628px;
+}
+.sidebar__cash{
+    background-position: -73px -1628px;
+}
+.sidebar__bank{
+    background-position: -117px -1628px;
+}
+.sidebar__pu{
+    background-position: -161px -1628px ;
+}
+.sidebar__invoice{
+    background-position: -249px -1628px ;
+}
+.sidebar__store{
+    background-position: -291px -1628px;
+}
+.sidebar__tools{
+    background-position: -336px -1628px;
+
+}
+.sidebar__assets{
+    background-position: -378px -1628px;
+
+}
+.sidebar__tax{
+    background-position: -423px -1628px;
+
+}
+.sidebar__price{
+    background-position: -467px -1628px;
+
+}
+.sidebar__general{
+    background-position: -510px -1628px;
+
+}
+.sidebar__budget{
+    background-position: -378px -1659px;
+
+}
+.sidebar__report{
+    background-position: -547px -1628px;
+
+}
+.sidebar__finance{
+    background-position: -204px -1664px;
+
+}
+
+.menu__title{
+    display: flex ;
+    align-items: center;
+}   
+
+
+/* menu mini */
+
+

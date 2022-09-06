@@ -1,0 +1,17 @@
+.Radio__gt {
+    justify-content: center;
+    align-items: center;
+    margin-right: 15px;
+    height: 34px;
+}
+.Radio__gt .radio{
+    margin-right: 5px;
+    accent-color: #2ca01c;
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    accent-color: #2ca01c;
+    outline: none;
+    
+    
+}
